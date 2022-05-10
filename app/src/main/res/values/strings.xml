@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Joquempo</string>
+    <string name="msg_init">Escolha sua opção:</string>
+    <string name="msg_adversario">Escolha do adversário:</string>
+    <string name="msg_final">Resultado:</string>
+    <string name="result_win">Parabéns! Você ganhou!</string>
+    <string name="result_lose">Que pena! Você perdeu!</string>
+    <string name="result_draw">Opa! Empatou!</string>
+</resources>
